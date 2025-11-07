@@ -30,7 +30,7 @@
 
 💡 **Innovator at heart**, blending creativity with technical skill.  
 🎵 Producing music in **FL Studio** as a creative outlet.  
-🛠 Always exploring **automation**, **UI/UX design**, and **system optimization**.  
+🛠 Always exploring **automation** and **system optimization**.  
 
 ---
 
